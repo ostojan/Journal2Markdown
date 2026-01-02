@@ -1,0 +1,5 @@
+beautifulsoup4==4.14.3
+lxml==6.0.2
+pillow==11.3.0
+pillow_heif==1.1.1
+python-dateutil==2.9.0.post0
